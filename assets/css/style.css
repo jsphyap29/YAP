@@ -99,7 +99,7 @@ html {
 
 
 .BG {
-    background-image: url(./assets/images/bg1.jpg.png);
+    background-image: url(../assets/images/bg1.jpg.png);
     height: 100%;
     position: relative;
     background-position: center;
@@ -110,7 +110,7 @@ html {
 }
 
 .footBG {
-    background-image: url(./assets/images/footbg.png);
+    background-image: url(../assets/images/footbg.png);
     height: 100%;
     position: relative;
     background-position: center;
